@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Mon Nov 29 20:38:48 2021
+# Process ID: 13672
+# Current directory: C:/Users/luxyd/Desktop/counter
+# Command line: wbtcv.exe -mode batch -source C:/Users/luxyd/Desktop/counter/counter.hw/webtalk/labtool_webtalk.tcl -notrace
+# Log file: C:/Users/luxyd/Desktop/counter/webtalk.log
+# Journal file: C:/Users/luxyd/Desktop/counter\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/luxyd/Desktop/counter/counter.hw/webtalk/labtool_webtalk.tcl -notrace

@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Sat Dec  4 11:29:29 2021
+# Process ID: 14092
+# Current directory: D:/桌面/zxrshawn/大二/数字逻辑/汽车尾灯控制器设计——段茗睿 郑旭然/counter
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8400 D:\桌面\zxrshawn\大二\数字逻辑\汽车尾灯控制器设计——段茗睿 郑旭然\counter\counter.xpr
+# Log file: D:/桌面/zxrshawn/大二/数字逻辑/汽车尾灯控制器设计——段茗睿 郑旭然/counter/vivado.log
+# Journal file: D:/桌面/zxrshawn/大二/数字逻辑/汽车尾灯控制器设计——段茗睿 郑旭然/counter\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/桌面/zxrshawn/大二/数字逻辑/汽车尾灯控制器设计——段茗睿 郑旭然/counter/counter.xpr}
+update_compile_order -fileset sources_1

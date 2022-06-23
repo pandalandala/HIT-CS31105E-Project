@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Thu Dec  2 10:10:44 2021
+# Process ID: 8592
+# Current directory: C:/Users/luxyd/Desktop/counter
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11668 C:\Users\luxyd\Desktop\counter\counter.xpr
+# Log file: C:/Users/luxyd/Desktop/counter/vivado.log
+# Journal file: C:/Users/luxyd/Desktop/counter\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/luxyd/Desktop/counter/counter.xpr
+WARNING: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/Users/luxyd/Desktop/counter/counter.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Vivado/Vivado/2021.1/data/ip'.
+open_project: Time (s): cpu = 00:00:17 ; elapsed = 00:00:06 . Memory (MB): peak = 1456.316 ; gain = 0.000
+update_compile_order -fileset sources_1exit
+INFO: [Common 17-206] Exiting Vivado at Thu Dec  2 10:11:14 2021...
+n (See C:/Users/luxyd/Desktop/counter/vivado_pid8592.debug)
+ERROR: [Common 17-39] 'stop_gui' failed due to earlier errors.
+INFO: [Common 17-206] Exiting Vivado at Thu Dec  2 10:11:10 2021...
